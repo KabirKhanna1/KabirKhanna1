@@ -1,5 +1,5 @@
 ## Hi there 👋
-Its an AR based canvas which can detect objects in the air
+Its an AR based canvas which can detect objects in the air. just you point the finger before camera and do the movement, it can draw the sketch on the canvas
 <!--
 **KabirKhanna1/KabirKhanna1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
